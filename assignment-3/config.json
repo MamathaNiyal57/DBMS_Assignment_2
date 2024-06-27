@@ -1,0 +1,5 @@
+{
+    "MasterDataFilePath" : "/Users/admin/Documents/Postgres/assignment-3/MasterData.csv",
+    "StudentMarksFilePath": "/Users/admin/Documents/Postgres/assignment-3/StudentMarks.csv"
+
+}
